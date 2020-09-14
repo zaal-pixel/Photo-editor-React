@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+[see live version](https://gifted-brahmagupta-1f6de2.netlify.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
